@@ -1,6 +1,6 @@
 # SchoolLocker (Teil 1)
 
-![.NET Core](./workflows/.NET%20Core/badge.svg)
+![.NET Core](https://github.com/jfuerlinger/csharp_samples_razorpages_schoollocker-part1-template/workflows/.NET%20Core/badge.svg)
 
 ## Lernziele
 
