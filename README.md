@@ -105,8 +105,6 @@ Testen Sie die folgenden Zeiträume für den Locker 101:
 
 
 ## Hinweise
-* Verwenden Sie Validierungsattribute um die Datenkonsistenz sicherzustellen
-   * Z.B. Buchung: von-Datum darf nicht nach dem bis-Datum liegen!
 * Verwenden Sie dort wo sinnvoll DataTransferObjects
 * Achten Sie auf eine korrekte Schichtentrennung (Core, Persistence und Web)
 * Verwenden Sie das UnitOfWork-Muster
